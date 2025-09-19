@@ -26,7 +26,7 @@ Check out some qualitative results:
 To explore the benchmark and see our method in action, you can:
 
 1. **View the interactive demo**: Open [`index.html`](index.html) in your browser to see detailed explanations
-2. **Access the dataset**: Visit our [Hugging Face dataset](https://huggingface.co/datasets/ainulla/mmrag)
+2. **Access the dataset**: Visit our [Hugging Face dataset](https://huggingface.co/datasets/Fujitsu/MM-RAG)
 3. **Read the paper**: Check out our research on [arXiv](https://arxiv.org/abs/2505.18450) 
 
 ## 📄 Citation
