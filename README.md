@@ -18,8 +18,8 @@ MM-RAG test set is a new test set we built based on WikiWeb2M and contains 500 q
 
 Check out some qualitative results:
 
-- [Text-Image Example](images/example-1.png)
-- [Image-Text Example](images/example-2.png)
+- [Text-Image Example](images/example-1.jpg)
+- [Image-Text Example](images/example-2.jpg)
 
 ## 🚀 Getting Started
 
